@@ -1,9 +1,14 @@
 header{
-    background-color: #E41717;
+    background-color: #0a68e2;
     color: aqua;
+    max-width: 800px;
+    margin: 0 auto;
 } 
 
 
-main{ background-color: #22e608;
+main{ background-color: #7e4ed8;
 color: black;
+text-align: center;
+ max-width: 800px;
+    margin: 0 auto;
 }
